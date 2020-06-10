@@ -2,3 +2,5 @@ hi this is sudarsan krishna learning  git
 this is second line for modifying the filegit status
 
 jvvvjvjvvkvvkbkbkbkbb
+
+Learn the basics of Git through detailed and easy to follow along screencasts. Start using Git today!

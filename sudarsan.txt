@@ -1,3 +1,6 @@
 sudarsan learning git hub
 
 sudarsan looking for  updated commandgit status
+
+Learn the basics of Git through detailed and easy to follow along screencasts. Start using Git today!
+git status
